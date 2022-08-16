@@ -1,0 +1,30 @@
+
+[
+    {
+        
+        "Monto": "$25000",
+        "Tasa de Interés": "20%", 
+        "Cuotas": "12"
+    },
+
+    {
+        
+        "Monto": "$50000",
+        "Tasa de Interés": "25%", 
+        "Cuotas": "18"
+    },
+
+    {
+        
+        "Monto": "$100000",
+        "Tasa de Interés": "30%", 
+        "Cuotas": "24"
+    },
+
+    {
+        
+        "Monto": "$150000",
+        "Tasa de Interés": "35%", 
+        "Cuotas": "30"
+    }
+]
